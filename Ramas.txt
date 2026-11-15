@@ -1,0 +1,1 @@
+Push a la rama main después de liarla e hiciera push a la Branch por defecto de git XD
