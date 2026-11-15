@@ -1,0 +1,1 @@
+Hola, buenas soy un estudiante que anda explorando el versionado de código mediante git + github
